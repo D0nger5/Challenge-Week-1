@@ -14,7 +14,7 @@ Inspect the Source
 
 ## Credits
 
-EdX Bootcamp, John DOngworth
+EdX Bootcamp, John Dongworth
 
 ## License
 
