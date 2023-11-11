@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Inspect the Source
+Inspect the source html and style sheet
 
 ## Credits
 
